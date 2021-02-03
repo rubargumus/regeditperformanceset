@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00      github.com/rubargumus    
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+
+"SystemResponsiveness"=dword:00000001
